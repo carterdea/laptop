@@ -1,0 +1,41 @@
+#!/bin/sh
+
+brew_tap 'caskroom/cask'
+brew_install_or_upgrade 'brew-cask'
+
+brew cask install dropbox
+brew cask install google-chrome
+brew cask install slack
+brew cask install cloud app
+brew cask install sublime-text3
+brew cask install omnigraffle
+brew cask install evernote
+brew cask install kaleidoscope
+brew cask install firefox
+brew cask install dash
+brew cask install beamer
+brew cask install avocode
+brew cask install 1password
+brew cask install harvest
+brew cask install xscope
+brew cask install vlc
+brew cask install transmit
+brew cask install transmission
+brew cask install skitch
+brew cask install sketch
+brew cask install paparazzi
+brew cask install onyx
+brew cask install mou
+brew cask install mailbox
+brew cask install microsoft-office
+brew cask install slicy
+brew cask install backblaze
+brew cask install tower
+brew cask install stay
+brew cask install skype
+brew cask install fantastical
+
+gem_install_or_update 'parity'
+
+brew_install_or_upgrade 'tree'
+brew_install_or_upgrade 'watch'
