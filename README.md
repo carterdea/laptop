@@ -51,7 +51,6 @@ What it sets up
 * [Node.js] and [NPM], for running apps and installing JavaScript packages
 * [Postgres] for storing relational data
 * [Qt] for headless JavaScript testing via Capybara Webkit
-* [Rbenv] for managing versions of Ruby
 * [RCM] for managing company and personal dotfiles
 * [Redis] for storing key-value data
 * [Ruby Build] for installing Rubies
@@ -154,10 +153,3 @@ About thoughtbot
 
 Laptop is maintained and funded by thoughtbot, inc.
 The names and logos for thoughtbot are trademarks of thoughtbot, inc.
-
-We are passionate about open source software.
-See [our other projects][community].
-We are [available for hire][hire].
-
-[community]: https://thoughtbot.com/community?utm_source=github
-[hire]: https://thoughtbot.com?utm_source=github
